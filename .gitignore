@@ -47,6 +47,7 @@ Thumbs.db
 *.ear
 *.pdf
 *.png
+*.txt
 
 # ============================================================================
 # IntelliJ (au cas où le projet est ouvert avec IntelliJ un jour)
